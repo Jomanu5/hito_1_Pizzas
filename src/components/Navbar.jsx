@@ -41,7 +41,7 @@ return (
         </div>
       </ul>
         
-      <button type="button" class="btn btn-secondary ms-auto">Total: $ {precioFormato}</button>
+      <button type="button" className="btn btn-secondary ms-auto">Total: $ {precioFormato}</button>
 
     </div>
   </div>
